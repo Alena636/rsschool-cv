@@ -44,3 +44,18 @@ function isPrime(num) {
   return true;
 }
 ```
+
+=======================================================
+
+## Courses:
+* FreeCodeCamp
+* HTML Academy
+* Codeacademy
+
+=======================================================
+
+## Languages:
+* English - Intermediate
+* Russian - Native
+* Belarusian - Native
+* Polish - Pre-intermediate
